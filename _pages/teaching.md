@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List of courses I have taught or been a TA for.
+description: List of courses I have been a TA for.
 nav: true
 nav_order: 6
 calendar: false

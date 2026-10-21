@@ -8,6 +8,7 @@ term: Fall
 # location: Science Building, Room 202
 # time: Mondays and Wednesdays, 2:00-3:30 PM
 course_id: machine-learning
+permalink: /teaching/csci567/
 # schedule:
 #   - week: 1
 #     date: Feb 5
