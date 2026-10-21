@@ -1,13 +1,13 @@
 ---
 layout: course
-title: CSCI 567: Machine Learning
+title: "CSCI 567: Machine Learning"
 description: This course covers the core techniques of supervised and unsupervised learning - how they work, why they work, and when they fail. We build up from linear models to deep networks and transformers, with a running focus on generalization: why does a model that fits its training data work (or not work) on data it has never seen?
 instructor: Prof. Sai Praneeth Karimireddy
 year: 2026
 term: Fall
 # location: Science Building, Room 202
 # time: Mondays and Wednesdays, 2:00-3:30 PM
-# course_id: data-science-fundamentals
+course_id: machine-learning
 # schedule:
 #   - week: 1
 #     date: Feb 5
