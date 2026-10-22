@@ -51,10 +51,10 @@ cv:
           - Researched how open-source models respond to prompt injections designed to induce sycophancy
 
       - company: "<em>RAPID: Randomized Projections for Internal Distillation</em>"
-        position: Researcher
+        position: PhD Research
         location: University of Southern California
-        start_date: "August 2026"
-        end_date: Present
+        start_date: "Aug 2026"
+        end_date: "Sep 2026"
         summary: Distillation of internal activations for improving reasoning in sub-billion-parameter models.
         highlights:
           - Transfers geometric representations of pairwise relationships
@@ -62,9 +62,9 @@ cv:
           - Reduces training costs by as much as 35.2% without compromising performance
 
       - company: "<em>SAE Feature-based Optimizations for Instruction Tuning</em>"
-        position: Researcher
+        position: PhD Research
         location: University of Southern California
-        start_date: "January 2026"
+        start_date: "Jan 2026"
         end_date: Present
         summary: An interpretable method for pruning, filtering, and compressing datasets using task-relevant features.
         highlights:
@@ -72,10 +72,10 @@ cv:
           - Achieves comparable performance to full training using 100 out of more than 50,000 samples
 
       - company: "<em>KDFP: Knowledge Distillation from First Principles</em>"
-        position: Researcher
+        position: PhD Research
         location: University of Southern California
-        start_date: "August 2025"
-        end_date: Present
+        start_date: "Aug 2025"
+        end_date: "Mar 2026"
         summary: First-principles exploration of white-box knowledge distillation.
         highlights:
           - Evaluated more than 100 novel distillation methodologies
@@ -83,10 +83,10 @@ cv:
           - Reduced training data requirements from 32B tokens to 100M without additional parameters
 
       - company: "<em>CPU-Auth: Hardware Authentication via Side-Channel Analysis</em>"
-        position: Researcher
+        position: Undergraduate Research
         location: University of California, Davis
-        start_date: "March 2023"
-        end_date: "June 2024"
+        start_date: "Mar 2023"
+        end_date: "Jun 2024"
         summary: Hardware authentication using time-series analysis of CPU side-channel data.
         highlights:
           - Trained ResNet, MLP, and CNN pipelines achieving up to 90% accuracy on real-world data

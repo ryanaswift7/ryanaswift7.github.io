@@ -1,12 +1,19 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/SwiftRyan_Resume_15sep2026.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: Ryan Swift's curriculum vitae.
-toc:
-  sidebar: left
 ---
+
+<object
+  data="{{ '/assets/pdf/SwiftRyan_Resume_15sep2026.pdf' | relative_url }}"
+  type="application/pdf"
+  width="100%"
+  height="1000px"
+>
+  <p>
+    Your browser cannot display PDFs.
+    <a href="{{ '/assets/pdf/SwiftRyan_Resume_15sep2026.pdf' | relative_url }}">Download my CV</a>
+  </p>
+</object>
