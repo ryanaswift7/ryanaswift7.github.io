@@ -19,7 +19,7 @@ cv:
         area: Computer Science
         studyType: PhD
         start_date: 2024
-        end_date: "May 2029 (Expected)"
+        end_date: "2029 (Est)"
         highlights:
           - "Advisor: Konstantinos Psounis"
           - Researching multimodal representation learning and its applications
@@ -30,28 +30,27 @@ cv:
         location: Davis, CA
         area: Computer Science
         studyType: B.S.
-        start_date: 2020
-        end_date: "June 2024"
+        start_date: 2022
+        end_date: 2024
         highlights:
           - "Advisors: Zubair Shafiq, Chen-Nee Chuah"
           - Undergraduate researcher in the University Honors Program
           - Designed a novel ML authentication pipeline achieving 90% accuracy on user data
           - Relevant coursework: Optimization, Computer Security, Software Engineering, Theory of Computation
 
-    Work Experience:
-      - company: LLNL CSI
+    Experience:
+      - company: Lawrence Livermore National Lab
         position: Graduate Student Intern
         location: Livermore, CA
-        start_date: "Summer 2026"
-        end_date: "Summer 2026"
+        start_date: "May 2026"
+        end_date: "Aug 2026"
         summary: Worked with mentor Colin Ponce on the Stormbreaker project, integrating agentic workflows into critical infrastructure such as power systems.
         highlights:
           - Contributed to a custom agentic harness and conducted independent research on agentic safety and alignment
           - Doubled the harness feature set, including tools for agents to interact with threat intelligence databases
           - Researched how open-source models respond to prompt injections designed to induce sycophancy
 
-    Research Experience:
-      - company: "RAPID: Randomized Projections for Internal Distillation"
+      - company: "<em>RAPID: Randomized Projections for Internal Distillation</em>"
         position: Researcher
         location: University of Southern California
         start_date: "August 2026"
@@ -62,7 +61,7 @@ cv:
           - Applies the Johnson-Lindenstrauss lemma using data-independent projections
           - Reduces training costs by as much as 35.2% without compromising performance
 
-      - company: SAE Feature-based Optimizations for Instruction Tuning
+      - company: "<em>SAE Feature-based Optimizations for Instruction Tuning</em>"
         position: Researcher
         location: University of Southern California
         start_date: "January 2026"
@@ -72,7 +71,7 @@ cv:
           - Leverages sparse autoencoders to derive feature importance
           - Achieves comparable performance to full training using 100 out of more than 50,000 samples
 
-      - company: "KDFP: Knowledge Distillation from First Principles"
+      - company: "<em>KDFP: Knowledge Distillation from First Principles</em>"
         position: Researcher
         location: University of Southern California
         start_date: "August 2025"
@@ -83,7 +82,7 @@ cv:
           - Demonstrated up to 2.5% zero-shot and 1.5% five-shot performance improvements over comparable methods
           - Reduced training data requirements from 32B tokens to 100M without additional parameters
 
-      - company: "CPU-Auth: Hardware Authentication via Side-Channel Analysis"
+      - company: "<em>CPU-Auth: Hardware Authentication via Side-Channel Analysis</em>"
         position: Researcher
         location: University of California, Davis
         start_date: "March 2023"
@@ -107,7 +106,7 @@ cv:
     Projects:
       - name: Fully Reproducible System and Home Configurations with Nix
         summary: Binary-reproducible NixOS system and portable Home Manager configuration for non-NixOS systems.
-        start_date: "December 2025"
+        start_date: 2025
         end_date: Present
         highlights:
           - Hierarchical, dendritic organization
@@ -115,7 +114,7 @@ cv:
 
       - name: LoRA Fine-tuning Implementation
         summary: Reproduced the original LoRA paper results and implemented a 6.85% improvement over baseline.
-        start_date: "September 2024"
-        end_date: "December 2024"
+        start_date: "Sep 2024"
+        end_date: "Dec 2024"
         highlights:
           - https://github.com/ryanaswift7/gpt2
