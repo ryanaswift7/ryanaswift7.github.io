@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 <object
-  data="{{ '/assets/pdf/SwiftRyan_Resume_15sep2026.pdf' | relative_url }}"
+  data="{{ '/assets/pdf/SwiftRyan_Resume.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
   height="1000px"

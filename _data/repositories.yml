@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ryanaswift7
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ryanaswift7/follow_the_features
+  - ryanaswift7/rapid
+  - ryanaswift7/kd_first_principles
+  - ryanaswift7/nix-dots
