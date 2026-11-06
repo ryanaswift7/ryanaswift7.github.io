@@ -27,9 +27,7 @@ latest_posts:
 
 Hey there! My name is Ryan and I'm a CS PhD student at USC. This website serves as my personal portfolio/CV/blog kind of thing. It is still heavily under construction, with some leftovers from the template I used, but I'll continue adding to it over time, updating it as I finish papers, projects, posts, etc. For now, I'll start by telling you a little bit about me.
 
-## Work
-
-### Research
+## Work::Research
 
 I do research in representation learning and applied interpretability for LLMs and agentic systems. Generally, the question I try to answer is:
 
@@ -40,7 +38,7 @@ Initially in my PhD, I was primarily interested in pure mechanistic interpretabi
 Thus far in my PhD, I've done a lot of work in knowledge distillation and some in data-efficient finetuning. I'm particularly interested in research on small models and making things more efficient. I am of the opinion that, if we *actually* knew what we were doing, we could cheaply (in both financial and resource costs) train very capable, very small models. But since we don't, we have instead resorted to massively scaling data and model sizes. My research tries to come up with ways that we might leverage the intuitions derived from mechanistic interpretability to train and/or evaluate models in a more principled way.
 
 
-### Development & Engineering
+## Work::Development & Engineering
 
 While the bulk of my professional experience has been in academic research, I was fortunate to have had a really fantastic internship at Lawrence Livermore National Lab in Summer 2026. I got the opportunity to dive deep into agentic systems and contribute to the design and development of a custom agentic harness in the very early stages. I got to help design the MCP interfaces, custom tooling, connections to internal knowledge bases, integrate expert knowledge with a SKILL-like setup, and implement agent routing for expertise and internal information reference prior to tool execution. It was an awesome experience, with feature sprints, lots of Costco pizza, and some really smart, really kind people.
 
@@ -49,16 +47,16 @@ One of the most valuable things that I learned in my agentic systems work was ho
 
 ## Personal Interests
 
-Generally, I have 3 main personal interests. If you talk to me for more than 5 minutes, I can almost guarantee that I will bring up one of these things.
+I have a small handful personal interests. If you talk to me for more than 5 minutes, I can almost guarantee that I will bring up one of these things.
 
-### Baseball
+#### Baseball
 
 Outside of my family, I cannot think of a single thing that I love more than baseball. There have been many times in my life where I have watched 4 full baseball games in a single day. I grew up playing it basically year round until my junior year of high school, when a mixture of health issues meant my playing days were over. I grew up loving the Cardinals because Yadier Molina was my favorite player (yes, I was a light-hitting, defense-first catcher), but now that I'm in Los Angeles I've become a huge Dodger fan and watch (nearly) every game.
 
 Some day I think it would be really awesome to work in baseball research and development. I definitely think I have the technical background, and I would also say that I have a pretty decent baseball IQ. I don;t have much experience combining those things in the modern world of basebal R&D, but I suppose the only way I could actually get that experience is working in the field.
 
 
-### Cars and Motorsports
+#### Cars and Motorsports
 
 Similar to baseball, cars have been a lifelong passion of mine. For as long as I can remember, one of my dream cars has always been an NA MX-5 Miata ([POP UP, UP AND DOWN HEADLIIIIIGHTS](https://www.youtube.com/watch?v=GDtiO29v1Ac)). I love all kinds of cars, but some of my favorites are generally small, light, (relatively) reliable cars that are easy to work on and modify. Outside of some Porsche 911's, the Audi RS2 Avant, the and Cadillac CTS-V wagon with a 6-speed, basically every one of my other favorite cars is Japanese (e.g. FC/FC RX-7, GR Yaris, Autozam AZ-1, and of course every Miata).
 
@@ -67,12 +65,12 @@ As much as I love cars and would love to get more into motorsports, the financia
 I've watched a handful of Indycar, IMSA, DTM, and WEC races and I don't know why I haven't watched more. They're all super fun to watch: competition, interesting personalities, and lots of diversity in cars, driving styles, and strategies. I really like a lot of the recent changes Indycar has made and I've recently found it more engaging to watch than even F1. 
 
 
-### Linux
+#### Linux
 
 I am a self-proclaimed Linux nerd-- specifically desktop since I can't afford any servers right now. I run [NixOS](https://nixos.org/) in a dendritic setup with [Niri](https://github.com/niri-wm/niri) as my window manager with [DankMaterialShell\Dux Shell](https://duxlabs.dev/). Was it a painful experience to build my config? Yeah, a wee bit. Was it worth it? Absolutely. All of the key things that NixOS offers-- atomic updates, reproducible builds, declarative configuration, mixing stable and unstable packages-- are well worth the time and complexity of setup to me. I highly recommend giving it a whirl if you're interested in those kinds of things. You can check out my [dotfiles](https://github.com/ryanaswift7/nix-dots), but it has been a looong time since I gave it a proper update. Still running great though :)
 
 
-### One other thing
+#### Space, again
 
 When I was a kid, I was obsessed with space. I remember spending my Saturday mornings in second grade watching "*How the Universe Works*" on the Discovery channel. In third grade I *knew* that I wanted to be an astrophysicist, so that I could learn more about space. In middle school, I decided that I needed to change my goal to aerospace engineering, because those were the people building the rockets, satellites, and telescopes that enabled us to learn more. 
 
