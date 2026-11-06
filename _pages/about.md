@@ -31,7 +31,7 @@ Hey there! My name is Ryan and I'm a CS PhD student at USC. This website serves 
 
 I do research in representation learning and applied interpretability for LLMs and agentic systems. Generally, the question I try to answer is:
 
-> "How can I take what we've learned about how LLMs learn/store/process information and translate that to practical improvements in performance, efficiency, safety, etc.?
+> How can I take what we've learned about how LLMs learn/store/process information and translate that to practical improvements in performance, efficiency, safety, etc.?
 
 Initially in my PhD, I was primarily interested in pure mechanistic interpretability and trying to figure out how LLMs work. At some point, I got tired of thinking of ways to convince people that interpretability is important, and I ended up making the entire focus of my research a demonstration of why interpretability truly does matter.
 
