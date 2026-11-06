@@ -14,6 +14,6 @@ nav_order: 5
 >
   <p>
     Your browser cannot display PDFs.
-    <a href="{{ '/assets/pdf/SwiftRyan_Resume_15sep2026.pdf' | relative_url }}">Download my CV</a>
+    <a href="{{ '/assets/pdf/SwiftRyan_Resume.pdf' | relative_url }}">Download my CV</a>
   </p>
 </object>
