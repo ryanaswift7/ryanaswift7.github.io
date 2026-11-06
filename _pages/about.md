@@ -27,7 +27,7 @@ latest_posts:
 
 Hey there! My name is Ryan and I'm a CS PhD student at USC. This website serves as my personal portfolio/CV/blog kind of thing. It is still heavily under construction, with some leftovers from the template I used, but I'll continue adding to it over time, updating it as I finish papers, projects, posts, etc. For now, I'll start by telling you a little bit about me.
 
-## Work::Research
+## Research
 
 I do research in representation learning and applied interpretability for LLMs and agentic systems. Generally, the question I try to answer is:
 
@@ -38,7 +38,7 @@ Initially in my PhD, I was primarily interested in pure mechanistic interpretabi
 Thus far in my PhD, I've done a lot of work in knowledge distillation and some in data-efficient finetuning. I'm particularly interested in research on small models and making things more efficient. I am of the opinion that, if we *actually* knew what we were doing, we could cheaply (in both financial and resource costs) train very capable, very small models. But since we don't, we have instead resorted to massively scaling data and model sizes. My research tries to come up with ways that we might leverage the intuitions derived from mechanistic interpretability to train and/or evaluate models in a more principled way.
 
 
-## Work::Development & Engineering
+## Development & Engineering
 
 While the bulk of my professional experience has been in academic research, I was fortunate to have had a really fantastic internship at Lawrence Livermore National Lab in Summer 2026. I got the opportunity to dive deep into agentic systems and contribute to the design and development of a custom agentic harness in the very early stages. I got to help design the MCP interfaces, custom tooling, connections to internal knowledge bases, integrate expert knowledge with a SKILL-like setup, and implement agent routing for expertise and internal information reference prior to tool execution. It was an awesome experience, with feature sprints, lots of Costco pizza, and some really smart, really kind people.
 
